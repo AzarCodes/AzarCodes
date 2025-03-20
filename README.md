@@ -2,52 +2,72 @@
 
 ![Azar's Profile Photo](https://github.com/AzarCodes/AzarCodes/raw/main/profile-photo.png)
 
-I’m a **Python Developer** and **AWS DevOps Engineer** with a passion for coding, cloud infrastructure, and automation. Welcome to my GitHub universe!
+**AWS DevOps Engineer | Python Developer** ☁️  
+*Building scalable solutions and automating workflows*
+
+I’m passionate about coding, cloud infrastructure, and automation. Welcome to my GitHub universe!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style looseleaf-for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azar-s-397111302/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Azar_uddhin?t=s69I0XoWNS6xpxWqPem3Yw&s=09)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azars.codes@gmail.com)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=AzarCodes.AzarCodes)](https://github.com/AzarCodes)
 
 ---
 
 ### 🌟 About Me
-- 💻 I specialize in **Python development**, **AWS cloud solutions**, and **DevOps practices**.
-- 🔧 I thrive on automating workflows, building CI/CD pipelines, and designing scalable systems.
-- 🌱 Currently diving deeper into **Terraform**, **Ansible**, and **Kubernetes**.
+- 💻 Specializing in **Python development**, **AWS cloud solutions**, and **DevOps practices**.
+- 🔧 I love automating workflows, building CI/CD pipelines, and designing scalable systems.
+- 🌱 Currently exploring **Terraform**, **Ansible**, and **Kubernetes**.
 - 📫 Reach out: **azars.codes@gmail.com**
 
 ---
 
-### 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/azar-s-397111302/)  
-- [Twitter](https://x.com/Azar_uddhin?t=s69I0XoWNS6xpxWqPem3Yw&s=09)  
-- [GitHub](https://github.com/AzarCodes)  
-
----
-
 ### 🛠️ My Tech Stack
+
 #### Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### DevOps & Cloud Tools
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### 📊 My GitHub Stats
-![Azar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzarCodes&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzarCodes&layout=compact&theme=dracula)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ### 🚀 Featured Projects
-- **[Project Name 1](https://github.com/AzarCodes/project1)**: A Python tool for AWS resource automation (replace with your project).
-- **[Project Name 2](https://github.com/AzarCodes/project2)**: A Django app deployed with Terraform and Docker (replace with your project).
+
+#### 📝 [To-Do Application](https://github.com/AzarCodes/To-Do-Application)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+A simple, intuitive To-Do app with full CRUD functionality:  
+- Backend: **Python/Flask**  
+- Frontend: **HTML/CSS/JavaScript**  
+- Responsive design for all devices
+
+#### ☀️ [Weather App](https://github.com/AzarCodes/weather-app)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenWeather API](https://img.shields.io/badge/OpenWeather-EE7600?style=flat&logo=openweathermap&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+Real-time weather information fetcher:  
+- Integrates with **OpenWeather API**  
+- Clean, minimalist UI  
+- Location-based weather updates
+
+---
+
+### 📈 My GitHub Stats
+![Azar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzarCodes&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzarCodes&layout=compact&theme=dracula)
 
 ---
 
@@ -56,4 +76,4 @@ I once automated my coffee machine with Python—now it brews on commit! ☕
 
 ---
 
-Thanks for dropping by! Check out my repos, and let’s collaborate on something epic! 🚀
+Thanks for stopping by! Explore my repos, and let’s build something epic together! 🚀
