@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Azar!
 
-<img src="https://github.com/AzarCodes/AzarCodes/raw/main/profile-photo.png" alt="Azar's Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;">
+<img src="https://github.com/AzarCodes/AzarCodes/raw/main/profile-photo-circle.png" alt="Azar's Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;">
 
 **AWS DevOps Engineer | Python Developer** ☁️  
 *Building scalable solutions and automating workflows*
@@ -66,7 +66,7 @@ Real-time weather information fetcher:
 ---
 
 ### 📈 My GitHub Stats
-![Azar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzarCodes&show_icons=true&theme=dracula&count_private=true&cache_buster=126)
+![Azar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzarCodes&show_icons=true&theme=dracula&count_private=true&cache_buster=127)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzarCodes&layout=compact&theme=dracula&langs_count=6)
 
 ---
