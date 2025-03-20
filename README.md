@@ -1,46 +1,42 @@
-# 👋 Hello! I'm Azar  
+# Hey there! 👋 I'm Azar
 
-**AWS DevOps Engineer** | Automating Cloud Infrastructure & CI/CD Pipelines ⚡  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/azar-s-397111302/])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://x.com/Azar_uddhin?t=s69I0XoWNS6xpxWqPem3Yw&s=09])
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azars.codes@gmail.com)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)](https://github.com/AzarCodes)
+I'm a **Python Developer** and **AWS DevOps Engineer** passionate about building scalable solutions and automating workflows. I love coding, cloud infrastructure, and open-source projects!
 
 ---
 
-## 🛠️ **Tech Stack**  
-
-### **Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### **Scripting & Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+### 🌟 About Me
+- 💻 I specialize in **Python programming** and **AWS cloud technologies**.
+- 🔧 I enjoy automating deployments, managing CI/CD pipelines, and optimizing infrastructure.
+- 🌱 Currently learning more about Kubernetes and serverless architectures.
+- 📫 Reach me at: **azars.codes@gmail.com**
 
 ---
 
-## 📈 **GitHub Stats**  
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_title=true)](https://github.com/yourusername)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)
-
----
-
-## 🔍 **Latest Projects**  
-- [AWS ECS Fargate CI/CD Pipeline](https://github.com/yourusername/repo-name): Automated deployment using Terraform and GitHub Actions.
-- [Kubernetes Cluster Autoscaler](https://github.com/yourusername/repo-name): Optimized scaling for AWS EKS.
+### 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/azar-s-397111302/)  
+- [Twitter](https://x.com/Azar_uddhin?t=s69I0XoWNS6xpxWqPem3Yw&s=09)  
+- [GitHub](https://github.com/AzarCodes)  
 
 ---
 
-## 📫 **Let's Connect!**  
-- 📧 **Email**: [azars.codes@gmail.com](mailto:azars.codes@gmail.com)  
-- 💼 **LinkedIn**: [Connect Here]([Your-LinkedIn-URL])  
-- 🐦 **Twitter**: [Follow Me]([Your-Twitter-URL]) 
+### 🛠️ My Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 📈 GitHub Stats
+![Azar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzarCodes&show_icons=true&theme=radical)
+
+---
+
+### 🚀 Featured Projects
+- **[Project Name 1](https://github.com/AzarCodes/project1)**: A brief description of what it does (e.g., "A Python script to automate AWS resource monitoring").
+- **[Project Name 2](https://github.com/AzarCodes/project2)**: A brief description (e.g., "CI/CD pipeline setup using AWS CodePipeline").
+
+---
+
+Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate! 😊
