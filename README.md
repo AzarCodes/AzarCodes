@@ -3,7 +3,7 @@
 
   <img src="https://github.com/AzarCodes/AzarCodes/raw/main/profile-photo.png" alt="Azar's Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;">
 
-  <h3>🌟 AWS DevOps Engineer | Python Developer ☁️</h3>
+  <h3>☁️ AWS DevOps Engineer | Python Developer 🌟</h3>
   <p><i>Building scalable solutions and automating workflows</i></p>
   <p>I’m passionate about coding, cloud infrastructure, and automation. Welcome to my GitHub universe! 🚀</p>
 
