@@ -1,24 +1,35 @@
-# 👋 Hi, I’m Azar!
+<div align="center">
+  <h1>👋 Hi, I’m Azar S!</h1>
 
-<img src="https://github.com/AzarCodes/AzarCodes/raw/main/profile-photo.png" alt="Azar's Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="https://github.com/AzarCodes/AzarCodes/raw/main/profile-photo.png" alt="Azar's Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;">
 
-**AWS DevOps Engineer | Python Developer** ☁️  
-*Building scalable solutions and automating workflows*
+  <h3>🌟 AWS DevOps Engineer | Python Developer ☁️</h3>
+  <p><i>Building scalable solutions and automating workflows</i></p>
+  <p>I’m passionate about coding, cloud infrastructure, and automation. Welcome to my GitHub universe! 🚀</p>
 
-I’m passionate about coding, cloud infrastructure, and automation. Welcome to my GitHub universe!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azar-s-397111302/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Azar_uddhin?t=s69I0XoWNS6xpxWqPem3Yw&s=09)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azars.codes@gmail.com)
-[![Visitors](https://img.shields.io/endpoint?url=https%3A%2F%2Fvisitor-badge.glitch.me%2Fbadge%3Fpage_id%3DAzarCodes.AzarCodes&style=for-the-badge)](https://github.com/AzarCodes)
+  <div>
+    <a href="https://www.linkedin.com/in/azar-s-397111302/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://x.com/Azar_uddhin?t=s69I0XoWNS6xpxWqPem3Yw&s=09">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+    <a href="mailto:azars.codes@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://github.com/AzarCodes">
+      <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fvisitor-badge.glitch.me%2Fbadge%3Fpage_id%3DAzarCodes.AzarCodes&style=for-the-badge&color=green&label=Visitors" alt="Visitors">
+    </a>
+  </div>
+</div>
 
 ---
 
 ### 🌟 About Me
-- 💻 Specializing in **Python development**, **AWS cloud solutions**, and **DevOps practices**.
-- 🔧 I love automating workflows, building CI/CD pipelines, and designing scalable systems.
-- 🌱 Currently exploring **Terraform**, **Ansible**, and **Kubernetes**.
-- 📫 Reach out: **azars.codes@gmail.com**
+- 💻 **Specializing** in **Python development**, **AWS cloud solutions**, and **DevOps practices**.
+- 🔧 **I love** automating workflows, building CI/CD pipelines, and designing scalable systems.
+- 🌱 **Currently exploring** Terraform, Ansible, and Kubernetes.
+- 📫 **Reach out**: azars.codes@gmail.com
 
 ---
 
@@ -65,9 +76,18 @@ Real-time weather information fetcher:
 
 ---
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AzarCodes&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</div>
+
+---
+
 ### 📈 My GitHub Stats
-![Azar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzarCodes&show_icons=true&theme=dracula&count_private=true&cache_buster=127)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzarCodes&layout=compact&theme=dracula&langs_count=6)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AzarCodes&show_icons=true&theme=dracula&count_private=true&cache_buster=128" alt="Azar's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzarCodes&layout=compact&theme=dracula&langs_count=6" alt="Top Languages">
+</div>
 
 ---
 
@@ -76,4 +96,6 @@ I once automated my coffee machine with Python—now it brews on commit! ☕
 
 ---
 
-Thanks for stopping by! Explore my repos, and let’s build something epic together! 🚀
+<div align="center">
+  <p>Thanks for stopping by! Explore my repos, and let’s build something epic together! 🚀</p>
+</div>
