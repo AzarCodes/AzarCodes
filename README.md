@@ -10,7 +10,7 @@ I’m passionate about coding, cloud infrastructure, and automation. Welcome to 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azar-s-397111302/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Azar_uddhin?t=s69I0XoWNS6xpxWqPem3Yw&s=09)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azars.codes@gmail.com)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=AzarCodes.AzarCodes)](https://github.com/AzarCodes)
+[![Visitors](https://img.shields.io/endpoint?url=https%3A%2F%2Fvisitor-badge.glitch.me%2Fbadge%3Fpage_id%3DAzarCodes.AzarCodes&style=for-the-badge)](https://github.com/AzarCodes)
 
 ---
 
