@@ -7,7 +7,7 @@
 
 I’m passionate about coding, cloud infrastructure, and automation. Welcome to my GitHub universe!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style looseleaf-for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azar-s-397111302/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azar-s-397111302/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Azar_uddhin?t=s69I0XoWNS6xpxWqPem3Yw&s=09)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azars.codes@gmail.com)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=AzarCodes.AzarCodes)](https://github.com/AzarCodes)
