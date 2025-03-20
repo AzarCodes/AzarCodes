@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Azar!
 
-![Azar's Profile Photo](https://github.com/AzarCodes/AzarCodes/raw/main/profile-photo.png)
+![Azar's Profile Photo](https://github.com/AzarCodes/AzarCodes/raw/main/profile-photo.jpg)
 
 **AWS DevOps Engineer | Python Developer** ☁️  
 *Building scalable solutions and automating workflows*
