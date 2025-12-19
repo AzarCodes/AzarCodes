@@ -83,7 +83,14 @@ Real-time weather information fetcher:
 
 ---
 
-### 📈 My GitHub Stats
+### 📊 All-Time Stats
 </div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AzarCodes&show_icons=true&theme=dracula&count_private=true&hide=issues&cache_buster=1" alt="Azar's GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzarCodes&layout=compact&theme=dracula&langs_count=8&cache_buster=1" alt="Top Languages"/>
+
+### 📋 This Year Stats (2025)
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AzarCodes&show_icons=true&theme=dracula&count_private=true&hide=issues&cache_buster=1&date_format=yyyy-MM-dd" alt="Azar's 2025 GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzarCodes&layout=compact&theme=dracula&langs_count=8&cache_buster=1" alt="Top Languages"/>
+</div>
