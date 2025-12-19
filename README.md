@@ -84,18 +84,6 @@ Real-time weather information fetcher:
 ---
 
 ### 📈 My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AzarCodes&show_icons=true&theme=dracula&count_private=true&cache_buster=128" alt="Azar's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzarCodes&layout=compact&theme=dracula&langs_count=6" alt="Top Languages">
 </div>
-
----
-
-### ✨ Fun Fact
-I once automated my coffee machine with Python—now it brews on commit! ☕
-
----
-
-<div align="center">
-  <p>Thanks for stopping by! Explore my repos, and let’s build something epic together! 🚀</p>
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AzarCodes&show_icons=true&theme=dracula&count_private=true&hide=issues&cache_buster=1" alt="Azar's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzarCodes&layout=compact&theme=dracula&langs_count=8&cache_buster=1" alt="Top Languages"/>
