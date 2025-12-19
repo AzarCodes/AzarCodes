@@ -1,5 +1,6 @@
+Azar S  Azar Sameeulla
 <div align="center">
-  <h1>👋 Hi, I’m Azar S!</h1>
+<h1> 👋 Hi, I'm Azar Sameeulla!</h1>
 
   <img src="https://github.com/AzarCodes/AzarCodes/raw/main/profile-photo.png" alt="Azar's Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;">
 
