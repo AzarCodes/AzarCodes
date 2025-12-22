@@ -1,10 +1,9 @@
 # 💫 About Me
 
-💻 Specializing in Python development, AWS cloud solutions, and DevOps practices.
-🔧 Passionate about automating workflows, building CI/CD pipelines, and designing scalable systems.
-🌱 Currently exploring Terraform, Ansible, and Kubernetes to strengthen infrastructure-as-code and automation skills.
-📫 Reach out: [azars.codes@gmail.com](mailto:azars.codes@gmail.com)
-
+- 💻 Specializing in **Python development**, **AWS cloud solutions**, and **DevOps practices**
+- 🔧 Passionate about **automating workflows**, **building CI/CD pipelines**, and **designing scalable systems**
+- 🌱 Currently exploring **Terraform**, **Ansible**, and **Kubernetes** to strengthen infrastructure-as-code and automation skills
+- 📫 Reach out: [azars.codes@gmail.com](mailto:azars.codes@gmail.com)
 ---
 
 ## 🌐 Socials
